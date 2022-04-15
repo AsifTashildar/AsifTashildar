@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @AsifTashildar
 - 🌱 I’m currently learning React
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me asif.tashildar@yahoo.in
 
 <!---
